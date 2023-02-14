@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hey devops........................!
+=======
+jhhjvahsbhb
+hvjjbdsnmnbnmdsn
+>>>>>>> second
